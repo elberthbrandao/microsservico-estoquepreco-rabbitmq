@@ -12,7 +12,7 @@
 	<artifactId>estoquepreco</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>estoquepreco</name>
-	<description>Estudos mensageria RabbitMQ</description>
+	<description>Estudos mensageiria RabbitMQ</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
